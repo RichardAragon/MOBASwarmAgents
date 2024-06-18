@@ -22,4 +22,4 @@ c. Design the MOBA Map
 d. Import Necessary Packages
 
     Go to Window > Package Manager.
-    Search for and install packages like ML-Agents, TextMeshPro, etc.
+    Search for and install packages: ML-Agents, TextMeshPro.
