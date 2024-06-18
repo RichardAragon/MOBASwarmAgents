@@ -3,19 +3,19 @@ MOBASwarm Agents
 Welcome to MOBASwarm Agents, a framework designed to integrate SWARM algorithms with Large Language Models (LLMs) in a simulated MOBA (Multiplayer Online Battle Arena) environment using Unity. This framework aims to address complex task management and automation challenges by leveraging the strengths of decentralized SWARM algorithms and centralized LLMs for strategic oversight.
 
 Table of Contents
-    Introduction
-    Features
-    Getting Started
+
+    - Introduction
+    - Features
+    - Getting Started
         Prerequisites
         Installation
-    Usage
+    - Usage
         Setting Up the Unity Environment
         Developing SWARM Algorithms
         LLM Integration
         Communication Protocols
-    Contributing
-    License
-    Contact
+    - Contributing
+    - License
 
 Introduction
 
