@@ -1,8 +1,8 @@
 MOBASwarm Agents
 
 Welcome to MOBASwarm Agents, a framework designed to integrate SWARM algorithms with Large Language Models (LLMs) in a simulated MOBA (Multiplayer Online Battle Arena) environment using Unity. This framework aims to address complex task management and automation challenges by leveraging the strengths of decentralized SWARM algorithms and centralized LLMs for strategic oversight.
-Table of Contents
 
+Table of Contents
     Introduction
     Features
     Getting Started
@@ -20,20 +20,22 @@ Table of Contents
 Introduction
 
 MOBASwarm Agents is an innovative framework that combines the power of SWARM algorithms and LLMs within a MOBA-inspired simulation environment. The primary objective is to create a robust, scalable, and efficient system capable of managing and automating complex tasks.
+
 Features
 
-    Simulated MOBA Environment: Utilize Unity's advanced graphical and simulation capabilities to create a dynamic task environment.
-    SWARM Algorithms: Implement Ant Colony Optimization (ACO), Particle Swarm Optimization (PSO), and Genetic Algorithms (GA) to manage tasks within designated lanes.
-    LLM Integration: Use powerful language models for strategic decision-making and coordination.
-    Efficient Communication: Implement ZeroMQ for robust inter-lane communication and shared memory for intra-lane communication.
-    Visualization: Leverage Unity's visualization tools to monitor and analyze the interactions between SWARM algorithms and LLMs.
+Simulated MOBA Environment: Utilize Unity's advanced graphical and simulation capabilities to create a dynamic task environment.
+SWARM Algorithms: Implement Ant Colony Optimization (ACO), Particle Swarm Optimization (PSO), and Genetic Algorithms (GA) to manage tasks within designated lanes.
+LLM Integration: Use powerful language models for strategic decision-making and coordination.
+Efficient Communication: Implement ZeroMQ for robust inter-lane communication and shared memory for intra-lane communication.
+Visualization: Leverage Unity's visualization tools to monitor and analyze the interactions between SWARM algorithms and LLMs.
 
 Getting Started
+
 Prerequisites
 
-    Unity: Download and install Unity Hub and the latest LTS version of the Unity Editor from Unity.
-    Python: Install Python 3.8 or later from the official Python website.
-    Virtual Environment: Set up a Python virtual environment for managing dependencies.
+Unity: Download and install Unity Hub and the latest LTS version of the Unity Editor from Unity.
+Python: Install Python 3.8 or later from the official Python website.
+Virtual Environment: Set up a Python virtual environment for managing dependencies.
 
     bash
 
