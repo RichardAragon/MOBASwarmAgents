@@ -1,6 +1,7 @@
-![image](https://github.com/RichardAragon/MOBASwarmAgents/assets/138004861/2f63bee0-87b1-4dde-a275-7bf9ae927c1b)
 
-MOBASwarm Agents
+## MOBASwarm Agents
+
+![image](https://github.com/RichardAragon/MOBASwarmAgents/assets/138004861/2f63bee0-87b1-4dde-a275-7bf9ae927c1b)
 
 Welcome to MOBASwarm Agents, a framework designed to integrate SWARM algorithms with Large Language Models (LLMs) in a simulated MOBA (Multiplayer Online Battle Arena) environment using Unity. This framework aims to address complex task management and automation challenges by leveraging the strengths of decentralized SWARM algorithms and centralized LLMs for strategic oversight.
 
