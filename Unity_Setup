@@ -1,0 +1,25 @@
+Unity Setup
+
+a. Install Unity
+
+    Download and install Unity Hub from the Unity website.
+    Use Unity Hub to install the latest Long Term Support (LTS) version of the Unity Editor.
+
+b. Create a New Project
+
+    Open Unity Hub and create a new project with the 3D template, naming it (e.g., "MOBA_SWARM_Framework").
+    Click "Create" to set up the project.
+
+c. Design the MOBA Map
+
+    Create Lanes: Use 3D objects like cubes or planes to create lanes representing different paths.
+    NavMesh: Utilize Unity's NavMesh system for efficient pathfinding and navigation.
+        Go to Window > AI > Navigation to access the NavMesh tools.
+        Bake the NavMesh for the created lanes.
+    Task Nodes: Place task nodes along the lanes using 3D objects (e.g., spheres or cylinders) and label them appropriately.
+    Naming: Use descriptive names for game objects, scripts, and variables to maintain clarity.
+
+d. Import Necessary Packages
+
+    Go to Window > Package Manager.
+    Search for and install packages like ML-Agents, TextMeshPro, etc.
